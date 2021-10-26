@@ -1,0 +1,16 @@
+F:\Files\Documents\Computer\Coding\C#\TestSolution\ServerApplicationNetCore\bin\Debug\net5.0\ServerApplicationNetCore.exe
+F:\Files\Documents\Computer\Coding\C#\TestSolution\ServerApplicationNetCore\bin\Debug\net5.0\ServerApplicationNetCore.deps.json
+F:\Files\Documents\Computer\Coding\C#\TestSolution\ServerApplicationNetCore\bin\Debug\net5.0\ServerApplicationNetCore.runtimeconfig.json
+F:\Files\Documents\Computer\Coding\C#\TestSolution\ServerApplicationNetCore\bin\Debug\net5.0\ServerApplicationNetCore.runtimeconfig.dev.json
+F:\Files\Documents\Computer\Coding\C#\TestSolution\ServerApplicationNetCore\bin\Debug\net5.0\ServerApplicationNetCore.dll
+F:\Files\Documents\Computer\Coding\C#\TestSolution\ServerApplicationNetCore\bin\Debug\net5.0\ref\ServerApplicationNetCore.dll
+F:\Files\Documents\Computer\Coding\C#\TestSolution\ServerApplicationNetCore\bin\Debug\net5.0\ServerApplicationNetCore.pdb
+F:\Files\Documents\Computer\Coding\C#\TestSolution\ServerApplicationNetCore\obj\Debug\net5.0\ServerApplicationNetCore.csproj.AssemblyReference.cache
+F:\Files\Documents\Computer\Coding\C#\TestSolution\ServerApplicationNetCore\obj\Debug\net5.0\ServerApplicationNetCore.GeneratedMSBuildEditorConfig.editorconfig
+F:\Files\Documents\Computer\Coding\C#\TestSolution\ServerApplicationNetCore\obj\Debug\net5.0\ServerApplicationNetCore.AssemblyInfoInputs.cache
+F:\Files\Documents\Computer\Coding\C#\TestSolution\ServerApplicationNetCore\obj\Debug\net5.0\ServerApplicationNetCore.AssemblyInfo.cs
+F:\Files\Documents\Computer\Coding\C#\TestSolution\ServerApplicationNetCore\obj\Debug\net5.0\ServerApplicationNetCore.csproj.CoreCompileInputs.cache
+F:\Files\Documents\Computer\Coding\C#\TestSolution\ServerApplicationNetCore\obj\Debug\net5.0\ServerApplicationNetCore.dll
+F:\Files\Documents\Computer\Coding\C#\TestSolution\ServerApplicationNetCore\obj\Debug\net5.0\ref\ServerApplicationNetCore.dll
+F:\Files\Documents\Computer\Coding\C#\TestSolution\ServerApplicationNetCore\obj\Debug\net5.0\ServerApplicationNetCore.pdb
+F:\Files\Documents\Computer\Coding\C#\TestSolution\ServerApplicationNetCore\obj\Debug\net5.0\ServerApplicationNetCore.genruntimeconfig.cache
