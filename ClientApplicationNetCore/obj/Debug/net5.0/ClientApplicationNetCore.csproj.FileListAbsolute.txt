@@ -1,0 +1,15 @@
+F:\Files\Documents\Computer\Coding\C#\TestSolution\ClientApplicationNetCore\bin\Debug\net5.0\ClientApplicationNetCore.exe
+F:\Files\Documents\Computer\Coding\C#\TestSolution\ClientApplicationNetCore\bin\Debug\net5.0\ClientApplicationNetCore.deps.json
+F:\Files\Documents\Computer\Coding\C#\TestSolution\ClientApplicationNetCore\bin\Debug\net5.0\ClientApplicationNetCore.runtimeconfig.json
+F:\Files\Documents\Computer\Coding\C#\TestSolution\ClientApplicationNetCore\bin\Debug\net5.0\ClientApplicationNetCore.runtimeconfig.dev.json
+F:\Files\Documents\Computer\Coding\C#\TestSolution\ClientApplicationNetCore\bin\Debug\net5.0\ClientApplicationNetCore.dll
+F:\Files\Documents\Computer\Coding\C#\TestSolution\ClientApplicationNetCore\bin\Debug\net5.0\ref\ClientApplicationNetCore.dll
+F:\Files\Documents\Computer\Coding\C#\TestSolution\ClientApplicationNetCore\bin\Debug\net5.0\ClientApplicationNetCore.pdb
+F:\Files\Documents\Computer\Coding\C#\TestSolution\ClientApplicationNetCore\obj\Debug\net5.0\ClientApplicationNetCore.GeneratedMSBuildEditorConfig.editorconfig
+F:\Files\Documents\Computer\Coding\C#\TestSolution\ClientApplicationNetCore\obj\Debug\net5.0\ClientApplicationNetCore.AssemblyInfoInputs.cache
+F:\Files\Documents\Computer\Coding\C#\TestSolution\ClientApplicationNetCore\obj\Debug\net5.0\ClientApplicationNetCore.AssemblyInfo.cs
+F:\Files\Documents\Computer\Coding\C#\TestSolution\ClientApplicationNetCore\obj\Debug\net5.0\ClientApplicationNetCore.csproj.CoreCompileInputs.cache
+F:\Files\Documents\Computer\Coding\C#\TestSolution\ClientApplicationNetCore\obj\Debug\net5.0\ClientApplicationNetCore.dll
+F:\Files\Documents\Computer\Coding\C#\TestSolution\ClientApplicationNetCore\obj\Debug\net5.0\ref\ClientApplicationNetCore.dll
+F:\Files\Documents\Computer\Coding\C#\TestSolution\ClientApplicationNetCore\obj\Debug\net5.0\ClientApplicationNetCore.pdb
+F:\Files\Documents\Computer\Coding\C#\TestSolution\ClientApplicationNetCore\obj\Debug\net5.0\ClientApplicationNetCore.genruntimeconfig.cache
