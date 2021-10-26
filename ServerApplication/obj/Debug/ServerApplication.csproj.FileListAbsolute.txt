@@ -1,7 +1,0 @@
-F:\Files\Documents\Computer\Coding\C#\TestSolution\ServerApplication\bin\Debug\ServerApplication.exe.config
-F:\Files\Documents\Computer\Coding\C#\TestSolution\ServerApplication\bin\Debug\ServerApplication.exe
-F:\Files\Documents\Computer\Coding\C#\TestSolution\ServerApplication\bin\Debug\ServerApplication.pdb
-F:\Files\Documents\Computer\Coding\C#\TestSolution\ServerApplication\obj\Debug\ServerApplication.csproj.AssemblyReference.cache
-F:\Files\Documents\Computer\Coding\C#\TestSolution\ServerApplication\obj\Debug\ServerApplication.csproj.CoreCompileInputs.cache
-F:\Files\Documents\Computer\Coding\C#\TestSolution\ServerApplication\obj\Debug\ServerApplication.exe
-F:\Files\Documents\Computer\Coding\C#\TestSolution\ServerApplication\obj\Debug\ServerApplication.pdb
